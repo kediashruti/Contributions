@@ -13,5 +13,5 @@
 - Worked on making props for HACK-O-VERSE in the second and third year.
 - Always been involved in the briefing sessions of our events in the girls' juniors' hostel.
 - Encouraged participation in all events.
-- Managed GitBook.
+
 
