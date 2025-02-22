@@ -6,6 +6,7 @@
 - Participated in hackathons with juniors, providing them with exposure to real-world problem-solving and raising awareness about hackathon participation.
 - Managed HnCC's website, contributing to UI and performance improvements. Additionally, contributed to the contest website of HnCC.
 - Guided juniors in developing the website for our national-level hackathon, HACKATRON.
+- Developed website for HACK-O-VERSE in collaboration with my clubmate Amaan Hussain.
 - Contributed to the smooth execution of events such as War-Of-Web, Hacktrail, CodeQuest, Uxathon, and Tech Talk under the title HACK-O-VERSE in the Techfest.
 - Managed GitHub account of our club, ensuring secure maintenance of the codebases.
 - Interviewed the fresher students of the 2024 batch for induction into the club.
